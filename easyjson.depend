@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612323050 source:d:\dev\nova pasta (2)\easyjson.c
+	"easyjson.h"
+	<stdio.h>
+
+1612323241 d:\dev\nova pasta (2)\easyjson.h
+	<stdlib.h>
+	<string.h>
+
+1612323273 source:d:\dev\nova pasta (2)\jsoninterpreter.c
+	<stdio.h>
+	<locale.h>
+	"easyjson.h"
+
